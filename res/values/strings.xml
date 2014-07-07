@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Odesk</string>
+     <string name="button_begin">Begin</string>
+     <string name="textview_text">Text</string>
+
+</resources>
